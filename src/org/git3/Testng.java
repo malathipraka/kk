@@ -4,11 +4,11 @@ import org.testng.annotations.Test;
 
 public class Testng {
 	@Test
-	private void test1() {
+	private void test11() {
 		System.out.println("testmethod test1");
 	}
 	@Test
-	private void test2() {
+	private void test21() {
 		System.out.println("testmethod test2");
 	}
 	@Test
@@ -27,6 +27,7 @@ public class Testng {
 	
 
 
-}
+
+
 
 }
